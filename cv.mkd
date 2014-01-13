@@ -9,7 +9,37 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+Leonardo Salles dos Santos
+Brasileiro, solteiro, 18 anos
+Rua Demétrio Ribeiro, número 1017, apartamento 208
+Centro Histórico – Porto Alegre – RS
+Telefone: (51) 9901-3133 / E-mail: leosallestm@gmail.com
+
+#### FORMAÇÃO
+
+Ensino Fundamental – Completo.
+Ensino Médio – Completo.
+
+#### EXPERIÊNCIA PROFISSIONAL
+
+2011 - Atualmente – TOTVS S/A
+Cargo: Desenvolvedor JAVA. 
+Principais atividades: Desenvolvimento de aplicações web utilizando a linguagem JAVA e framework’s como hibernate, jboss seam, jsf, primefaces, richfaces, weld e tecnologias como ejb, web services rest.
+Integrante da equipe de um dos maiores projetos do ano na area de TI, o projeto de cartões das lojas Renner, participei ativamente no inicio e no desenvolvimento do projeto, desde a decisão das tecnologias e implementação da arquitetura. Atualmente trabalhando como  front-end engineer e principal referência técnica no assunto além de referência em relação ao framework baseado em AngularJS desenvolvido para o cliente Renner.
+QUALIFICAÇÕES E ATIVIDADES PROFISSIONAIS
+
+Java EE – Linguagem em que me especializei e tive mais experiência no seu uso e no uso de framework's como Hibernate, Java Server Faces 1 e 2, Primefaces, Richfaces, JBOSS Seam, Weld, RESTEasy etc.
+Linguagem PHP - Programação de códigos PHP com conhecimentos sólidos no uso da linguagem.
+Produtos Zend – Experiência no uso de produtos como Zend Server e Zend Studio, além do uso do framework PHP(Zend Framework).
+Frontend - Programação Front-end em HTML/CSS/JS com conhecimentos avançados na área, CSS3, LESS, SASS, xCSS(Oriented Object CSS),  etc.
+Programação Javascript - Sólidos conhecimentos desde a linguagem pura até o uso de framework’s como Backbone, Angular, Jquery. Experiência em otimização e de construções de aplicações de alta performance e de aplicações que utilizam o conceito Single Page Application e também o uso da linguagem na camada back-end utilizando node.js.
+Desenvolvimento Mobile - Sólidos conhecimentos em técnicas e melhores práticas para o desenvolvimento de aplicativos móveis além do desenvolvimento de WebApps utilizando HTML5.
+Inglês – Avançado.
+
+#### INFORMAÇÕES ADICIONAIS
+
+Disponibilidade para fazer viagens à trabalho.
+Linkedin: http://br.linkedin.com/in/leosallestm
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
